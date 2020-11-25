@@ -2,7 +2,7 @@
 A simple fake bot that you must add to a discord to nuke them
 
 
-#How to run the bot
+# How to run the bot
 To simply run the bot download the files, extract them onto your desktop then
 cd desktop
 cd (Folder name)
