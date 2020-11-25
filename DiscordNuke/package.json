@@ -1,0 +1,36 @@
+{
+  "name": "discordnuker",
+  "version": "1.0.2",
+  "description": "Destroys the Discord server of your choice.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskikiboy/Discord-Destroyer.git"
+  },
+  "keywords": [
+    "destroy",
+    "guild",
+    "nuke",
+    "nuker",
+    "destroyer",
+    "raid",
+    "rid",
+    "discord",
+    "overwrite"
+  ],
+  "author": "oskikiboy",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/oskikiboy/Discord-Destroyer/issues"
+  },
+  "homepage": "https://github.com/oskikiboy/Discord-Destroyer#readme",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "github:discordjs/discord.js"
+  },
+  "devDependencies": {}
+}
